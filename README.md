@@ -11,7 +11,3 @@ I'm **Dani** :herb: - a developer who is **curious** :eyes: about all things cod
   *  ☕ Coffee Enthusiast
   * ⛰️ Hobby Hiker
   * 🐈‍⬛ Proud Cat Parent
-
-### Goals for 2022
-- ✨ Land my first job in tech!
-- ⚓ Catch up on One Piece
