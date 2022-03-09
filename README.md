@@ -2,7 +2,7 @@
 
 I'm **Dani** :herb: - a developer who is **curious** :eyes: about all things code! 💻
 - 👩‍💻 Studying with [Skillcrush](https://skillcrush.com) 
-- 🌱 Learning React  ⚛️
+- 🌱 Learning Angular 🅰️
 - 👯 Looking for my next coworkers
 - 📫 Send me a [message](mailto:ddarling212@gmail.com)
 - 😄 Pronouns: [she/they] 
